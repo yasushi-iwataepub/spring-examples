@@ -10,6 +10,7 @@
 
     <modules>
         <module>commandline</module>
+        <module>log4j</module>
     </modules>
 
 </project>
