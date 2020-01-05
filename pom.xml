@@ -12,6 +12,7 @@
         <module>commandline</module>
         <module>log4j</module>
         <module>rabbitmq-amqp-tutorials</module>
+        <module>amqp-daemon</module>
     </modules>
 
 </project>
